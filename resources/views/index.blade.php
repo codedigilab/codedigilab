@@ -800,15 +800,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="content">
-                                    <span class="bspan-clr position-relative mb-xxl-4 mb-xxl-3 mb-3">
-                                        Programmer
-                                    </span>
-                                    <h5 class="white-clr whitehover">
-                                        <a href="#"  wire:navigate class="white-clr whitehover">Leslie Alexander</a>
-                                    </h5>
-
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-lg-18" data-aos="fadein"
@@ -861,15 +853,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="content">
-                                    <span class="bspan-clr position-relative mb-xxl-4 mb-xxl-3 mb-3">
-                                        UI/UX designer
-                                    </span>
-                                    <h5 class="white-clr">
-                                        <a href="#"  wire:navigate class="white-clr whitehover">Darlene Robertson</a>
-                                    </h5>
-
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fadein"
@@ -922,15 +906,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="content">
-                                    <span class="bspan-clr position-relative mb-xxl-4 mb-xxl-3 mb-3">
-                                        Web developer
-                                    </span>
-                                    <h5 class="white-clr">
-                                        <a href="#"  wire:navigate class="white-clr whitehover">Marvin McKinney</a>
-                                    </h5>
-
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-lg-18" data-aos="fadein"
@@ -983,15 +959,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="content">
-                                    <span class="bspan-clr position-relative mb-xxl-4 mb-xxl-3 mb-3">
-                                        CEO
-                                    </span>
-                                    <h5 class="white-clr">
-                                        <a href="#"  wire:navigate class="white-clr whitehover">Esther Howard</a>
-                                    </h5>
-
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
