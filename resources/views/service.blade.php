@@ -24,7 +24,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="index.html" class="text-uppercase htheme">
+                                    <a href="/" class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -143,7 +143,7 @@
                             Most <span class="fw-400">experienced</span> services
                         </h2>
                     </div>
-                    <a href="service.html"
+                    <a href="service"
                         class="radius-btn d-inline-flex radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                         View All Service
                     </a>

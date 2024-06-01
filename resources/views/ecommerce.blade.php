@@ -24,7 +24,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="index.html" class="text-uppercase htheme">
+                                    <a href="/" class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -287,7 +287,7 @@
                                         <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">
                                             Razorpay, PayU, Paytm, CcAvenue, COD and more.
                                         </p>
-                                        <a href="contact.html" class="white-clr d-flex gap-4">
+                                        <a href="contact" class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -316,7 +316,7 @@
                                         <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">
                                             Auto shipping via Shiprocket, Delhivery & Manual courier
                                         </p>
-                                        <a href="contact.html" class="white-clr d-flex gap-4">
+                                        <a href="contact" class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -345,7 +345,7 @@
                                         <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">
                                             Show Service availibity is limited. Disable it if serving pan India.
                                         </p>
-                                        <a href="contact.html" class="white-clr d-flex gap-4">
+                                        <a href="contact" class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -374,7 +374,7 @@
                                         <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">
                                             Order alerts via any sms service provider, Email alerts
                                         </p>
-                                        <a href="contact.html" class="white-clr d-flex gap-4">
+                                        <a href="contact" class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>

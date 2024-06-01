@@ -67,7 +67,7 @@
                                 <ul class="link-footer d-grid gap-xxl-5 gap-4" data-aos="zoom-in"
                                     data-aos-duration="1400">
                                     <li>
-                                        <a href="about.html"
+                                        <a href="about"
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -76,7 +76,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="service.html"
+                                        <a href="service"
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -85,7 +85,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="blog-grid.html"
+                                        <a href="blog-grid"
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -94,7 +94,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact.html"
+                                        <a href="contact"
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -181,9 +181,9 @@
             <div
                 class="d-md-flex gap-md-0 gap-4 d-grid align-items-center justify-content-md-between justify-content-center">
                 <p class="pra-clr">
-                    &copy; All Copyright 2019 by <a href="index.html" class="theme-clr"> Code Digi Lab</a>
+                    &copy; All Copyright 2019 by <a href="/" class="theme-clr"> Code Digi Lab</a>
                 </p>
-                <a href="index.html" class="footer-logov1 m-md-0 m-auto">
+                <a href="/" class="footer-logov1 m-md-0 m-auto">
                     <img src="assets/img/my/logo.png" alt="img">
                 </a>
                 <a href="#" class="pra-clr">
@@ -201,7 +201,7 @@
         <i class="fas fa-times"></i>
     </div>
     <div class="sub-contact-wrapper d-grid">
-        <a href="index.html" class="side-logo">
+        <a href="/" class="side-logo">
             <img src="assets/img/my/logo.png" alt="img">
         </a>
         <p>
@@ -287,7 +287,7 @@
                 </a>
             </li>
         </ul>
-        <a href="contact.html"
+        <a href="contact"
             class="d-flex cmn-btn cmn-border justify-content-center fw-500 align-items-center gap-2 py-xl-3 py-2 px-2 rounded">
             <span class="icons">
                 <i class="fas fa-arrow-up white"></i>

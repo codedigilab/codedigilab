@@ -7,7 +7,7 @@
             <nav class="navbar-custom">
                 <div class="d-lg-flex flex-xl-nowrap flex-wrap align-items-center justify-content-lg-between">
                     <div class="d-flex align-items-center justify-content-between">
-                        <a href="index.html" class="brand-logo">
+                        <a href="/" class="brand-logo">
                             <img class="w-100" src="assets/img/my/logo.png" alt="logo">
                         </a>
                         <button class="navbar-toggle-btn d-block d-lg-none" type="button">

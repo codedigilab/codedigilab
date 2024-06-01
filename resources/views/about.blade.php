@@ -22,7 +22,7 @@
                     <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                         data-aos="zoom-in-right" data-aos-duration="2000">
                         <li>
-                            <a href="index.html" class="text-uppercase htheme">
+                            <a href="/" class="text-uppercase htheme">
                                 Home
                             </a>
                         </li>
