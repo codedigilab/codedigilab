@@ -59,8 +59,8 @@
                             </li>
                              
                                 <li class="menu-item position-relative">
-                                    <a href="casestudy" wire:navigate class="fw_500">
-                                          Case Study
+                                    <a href="workwithus" wire:navigate class="fw_500">
+                                         Work With Us
                                     </a>
                                 </li>
                             <li class="menu-item position-relative">

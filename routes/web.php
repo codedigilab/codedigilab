@@ -41,7 +41,10 @@ Route::get('/casestudy', function () {
     return view('casestudy');
 });
 
-Route::get('/completeproject', function () {
-    return view('completeproject');
+Route::get('/workwithus', function () {
+    return view('workwithus');
 });
 
+Route::get('/workwithuss', function () {
+    return view('workwithuss');
+});
