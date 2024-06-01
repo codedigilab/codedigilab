@@ -67,7 +67,7 @@
                                 <ul class="link-footer d-grid gap-xxl-5 gap-4" data-aos="zoom-in"
                                     data-aos-duration="1400">
                                     <li>
-                                        <a href="about"
+                                        <a href="about" wire:navigate
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -76,7 +76,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="service"
+                                        <a href="service" wire:navigate 
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -85,7 +85,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="blog-grid"
+                                        <a href="blog" wire:navigate
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -94,7 +94,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact"
+                                        <a href="contact" wire:navigate 
                                             class="d-flex align-items-center gap-2 flink-items pra-clr">
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
@@ -181,12 +181,12 @@
             <div
                 class="d-md-flex gap-md-0 gap-4 d-grid align-items-center justify-content-md-between justify-content-center">
                 <p class="pra-clr">
-                    &copy; All Copyright 2019 by <a href="/" class="theme-clr"> Code Digi Lab</a>
+                    &copy; All Copyright 2019 by <a href="/" wire:navigate class="theme-clr"> Code Digi Lab</a>
                 </p>
-                <a href="/" class="footer-logov1 m-md-0 m-auto">
+                <a href="/" wire:navigate class="footer-logov1 m-md-0 m-auto">
                     <img src="assets/img/my/logo.png" alt="img">
                 </a>
-                <a href="#" class="pra-clr">
+                <a href="#" wire:navigate class="pra-clr">
                     Terms & Conditions Privacy Policy
                 </a>
             </div>
@@ -201,7 +201,7 @@
         <i class="fas fa-times"></i>
     </div>
     <div class="sub-contact-wrapper d-grid">
-        <a href="/" class="side-logo">
+        <a href="/" wire:navigate class="side-logo">
             <img src="assets/img/my/logo.png" alt="img">
         </a>
         <p>
@@ -242,7 +242,7 @@
         </div>
         <ul class="common-social d-flex align-items-center gap-2 mb-xxl-10 mb-xl-9 mb-8">
             <li data-aos="zoom-in-right" data-aos-duration="1400">
-                <a href="#" class="d-center">
+                <a href="#" wire:navigate class="d-center">
                     <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g opacity="0.8" clip-path="url(#clip0_6308_28)">
                             <path
@@ -258,7 +258,7 @@
                 </a>
             </li>
             <li data-aos="zoom-in-right" data-aos-duration="1600">
-                <a href="#" class="d-center">
+                <a href="#" wire:navigate class="d-center">
                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
                             d="M14.3553 4.74149C14.3655 4.88362 14.3655 5.02577 14.3655 5.1679C14.3655 9.5029 11.066 14.4978 5.03553 14.4978C3.17766 14.4978 1.45178 13.9597 0 13.0258C0.263969 13.0562 0.51775 13.0664 0.791875 13.0664C2.32484 13.0664 3.73603 12.5486 4.86294 11.6654C3.42131 11.6349 2.21319 10.6907 1.79694 9.39124C2 9.42168 2.20303 9.44199 2.41625 9.44199C2.71066 9.44199 3.00509 9.40137 3.27919 9.33034C1.77666 9.02574 0.649719 7.70596 0.649719 6.11205V6.07146C1.08625 6.31512 1.59391 6.4674 2.13194 6.48768C1.24869 5.89884 0.670031 4.89377 0.670031 3.75671C0.670031 3.14759 0.832437 2.58921 1.11672 2.1019C2.73094 4.09174 5.15734 5.39121 7.87812 5.53337C7.82737 5.28971 7.79691 5.03593 7.79691 4.78212C7.79691 2.97499 9.25884 1.50293 11.0761 1.50293C12.0202 1.50293 12.873 1.89887 13.472 2.53846C14.2131 2.39634 14.9238 2.12221 15.5532 1.74659C15.3096 2.50802 14.7918 3.14762 14.1116 3.55368C14.7715 3.48265 15.4111 3.29987 15.9999 3.04609C15.5533 3.6958 14.9949 4.27446 14.3553 4.74149V4.74149Z"
@@ -267,7 +267,7 @@
                 </a>
             </li>
             <li data-aos="zoom-in-right" data-aos-duration="1800">
-                <a href="#" class="d-center">
+                <a href="#" wire:navigate class="d-center">
                     <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g opacity="0.8">
                             <path
@@ -278,7 +278,7 @@
                 </a>
             </li>
             <li data-aos="zoom-in-right" data-aos-duration="1900">
-                <a href="#" class="d-center">
+                <a href="#" wire:navigate class="d-center">
                     <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
                             d="M17.1769 1.87759C16.9806 1.13853 16.4023 0.556469 15.668 0.358938C14.337 0 9.00014 0 9.00014 0C9.00014 0 3.66327 0 2.3323 0.358938C1.59802 0.5565 1.0197 1.13853 0.823422 1.87759C0.466797 3.21719 0.466797 6.01213 0.466797 6.01213C0.466797 6.01213 0.466797 8.80706 0.823422 10.1467C1.0197 10.8857 1.59802 11.4435 2.3323 11.6411C3.66327 12 9.00014 12 9.00014 12C9.00014 12 14.337 12 15.668 11.6411C16.4023 11.4435 16.9806 10.8857 17.1769 10.1467C17.5335 8.80706 17.5335 6.01213 17.5335 6.01213C17.5335 6.01213 17.5335 3.21719 17.1769 1.87759V1.87759ZM7.25467 8.54972V3.47453L11.7153 6.01219L7.25467 8.54972V8.54972Z"
@@ -287,7 +287,7 @@
                 </a>
             </li>
         </ul>
-        <a href="contact"
+        <a href="contact" wire:navigate 
             class="d-flex cmn-btn cmn-border justify-content-center fw-500 align-items-center gap-2 py-xl-3 py-2 px-2 rounded">
             <span class="icons">
                 <i class="fas fa-arrow-up white"></i>
