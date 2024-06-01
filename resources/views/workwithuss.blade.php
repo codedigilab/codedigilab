@@ -21,7 +21,7 @@
                     <div class="col-lg-6 pe-lg-14">
                         <div class="d-flex gap-xxl-7 gap-xl-5 gap-4 position-relative z-index-1">
                             <div class="about-small-thumb w-100" data-aos="zoom-in" data-aos-duration="1500">
-                                <img src="assets/img/my/work-with-us-banner.webp" alt="img"
+                                <img style="border-radius: 0px 20px 20px 0px;" src="assets/img/my/work-with-us-banner.webp" alt="img"
                                     class="w-100">
                             </div>
 
