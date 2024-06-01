@@ -67,7 +67,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1400">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
                                 <!-- <ul class="common-social d-gr id align-items-center ga p-2">
                             <p style="background-color: red;">khalid</p>
@@ -79,7 +79,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1600">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
 
 
@@ -89,7 +89,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1700">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
 
 
@@ -99,7 +99,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1700">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
 
 
@@ -109,7 +109,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1700">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
 
 
@@ -119,7 +119,7 @@
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6" data-aos="zoom-in-left" data-aos-duration="1700">
                         <div class="team-common-item tilt">
                             <div class="thumb position-relative overflow-hidden w-100">
-                                <img src="https://www.shadowinfosystem.com/static/media/desktop_banner.64e576016c49ab9a08a5.webp"
+                                <img src="assets/img/my/portfolio-2.png"
                                     alt="img" class="overflow-hidden w-100">
 
 
