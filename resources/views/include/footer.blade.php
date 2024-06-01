@@ -141,22 +141,22 @@
                         <div class="row g-xxl-8 g-xl-7 g-6">
                             <div class="col-xl-6" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <input id="name" name="name" type="text" placeholder="Your Name">
+                                    <input id="name" name="name" type="text" placeholder="Your Name" required>
                                 </div>
                             </div>
                             <div class="col-xl-6" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <input id="emails" name="number" type="number" placeholder="Number">
+                                    <input id="emails" name="number" type="number" placeholder="Number" required>
                                 </div>
                             </div>
                             <div class="col-xl-12" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <input id="emails" name="email" type="email" placeholder="Your Email">
+                                    <input id="emails" name="email" type="email" placeholder="Your Email" required>
                                 </div>
                             </div>
                             <div class="col-xl-12" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <textarea name="write" id="mess" rows="3" placeholder="Write Message"></textarea>
+                                    <textarea name="write" id="mess" rows="3" placeholder="Write Message" required></textarea>
                                 </div>
                             </div>
                             <div class="col-xl-12" data-aos="zoom-in-right" data-aos-duration="1400">

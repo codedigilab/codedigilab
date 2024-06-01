@@ -116,7 +116,7 @@
         <div class="search-cell">
             <form method="get">
                 <div class="search-field-holder">
-                    <input type="search" class="main-search-input" placeholder="Search...">
+                    <input type="search" class="main-search-input" placeholder="Search..." required>
                 </div>
             </form>
         </div>

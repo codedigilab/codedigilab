@@ -86,17 +86,17 @@
                             <div class="contact-content bg1-clr">
                                 <form action="https://formspree.io/f/mkndeeyp" method="post">
                                     <div class="col-lg-12">
-                                        <input type="text" name="name" placeholder="Name">
+                                        <input type="text" name="name" placeholder="Name" required>
                                     </div>
                                     <div class="col-lg-12">
-                                        <input type="email" name="email" placeholder="Email">
+                                        <input type="email" name="email" placeholder="Email" required>
                                     </div>
                                     <div class="col-lg-12">
-                                        <input type="number" name="number" placeholder="Number">
+                                        <input type="number" name="number" placeholder="Number" required>
                                     </div>
 
                                     <div class="col-lg-12">
-                                        <textarea name="messages" rows="4" placeholder="Message"></textarea>
+                                        <textarea name="messages" rows="4" placeholder="Message" required></textarea>
                                     </div>
                                     <div class="col-lg-12">
                                         <button type="submit" class="submit-btn">
