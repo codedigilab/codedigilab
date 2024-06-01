@@ -55,12 +55,12 @@
                                 </a>
                                 <h4 class="sti tle d-flex align-items-center mb-xxl-8 mb-xl-7 mb-lg-6 mb-5 gap-xxl-7 gap-xl-5 gap-3"
                                     data-aos="zoom-in-left" data-aos-duration="1700">
-                                    Finding a trusted tech partner is the best asset for a business
+                                    Finding a trusted tech partner is the greatest asset for any business.
 
                                 </h4>
                                 <p class="white-clr mb-xxl-8 mb-xl-8 mb-5" data-aos="zoom-in-up"
                                     data-aos-duration="1400">
-                                    Hire Software Developers in India from us for the next big thing you are doing for the world.
+                                    Hire software developers from India through us for your next groundbreaking project.
 
                                 </p>
                                 <div class="result-progress-wrap" data-aos="zoom-in-up" data-aos-duration="1800">
@@ -107,13 +107,7 @@
                                 </h3>
                                 <p class="white-clr mb-xxl-8 mb-xl-8 mb-5" data-aos="zoom-in-up"
                                     data-aos-duration="1400">
-                                    At Code Digi Lab we work more as software consultants and not as coding robots.
-                                    Continuous learning of the latest technology trends and deploying that knowledge
-                                    into the client projects result in scalable and quality deliveries and let employees
-                                    enjoy the unusual work. This has created an ecosystem where our clients and
-                                    employees work like one team. Checkout a list of the global brands who have shown
-                                    their trust in Code Digi Lab and work closely with us.
-
+                                    At Code Digi Lab, We Function as Software Consultants Rather Than Mere Coders. by Continuously Learning the Latest Technology Trends and Applying That Knowledge to Client Projects, We Ensure Scalable and High-Quality Deliveries While Allowing Our Employees to Enjoy Unique and Engaging Work. This Approach Has Fostered an Ecosystem Where Our Clients and Employees Collaborate as One Team. Check Out the List of Global Brands That Trust Code Digi Lab and Work Closely with Us.
 
                                 </p>
                                 <button type="submit" class="btn btn-primary mt-2">OUR WORK</button>
