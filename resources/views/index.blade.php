@@ -92,10 +92,10 @@
         </div>
         <!-- Text Slider End -->
 
-        <p class="h2 mt-6 text-center mb-4">
-            <mark style="border-radius: 10px;"><strong> We Deliver 2K Plus Customers <ins>Multiple
-                        Industries.</ins></strong></mark>
-        </p>
+        
+        <h4 class="white-clr text-uppercase text-center mt-6 mb-6 khalidtext2">
+        We Deliver 2K Plus CustomersMultiple Industries.
+                            </h4>
         <!-- Product That Start -->
         <section class="about-product pt-4 mt-6">
             <div class="container">
