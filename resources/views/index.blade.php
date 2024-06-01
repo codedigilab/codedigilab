@@ -122,7 +122,8 @@
                                     data-aos-duration="1600">
                                     CODE <span class="fw-400 theme-clr">DIGI LAB</span>
                                 </h2>
-                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="zoom-in-left" data-aos-duration="1800" >
+                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="zoom-in-left"
+                                    data-aos-duration="1800">
                                     Code Digi Lab. Is The Leading Custom Web Development Company Offering A
                                     Comprehensive Range Of Website Development Services. Our Expert Developers
                                     Critically Analyze Your Unique Business Challenges To Craft Website Development
@@ -142,18 +143,18 @@
         <section class="about-product pt-4 mt-6">
             <div class="container">
                 <div class="row g-xxl-7 g-5">
-                <div class="col-lg-5">
+                    <div class="col-lg-5">
                         <div class="about-product-content ps-xxl-10">
                             <div class="pricing-title">
-                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up"
-                                    data-aos-duration="1600">
+                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up" data-aos-duration="1600">
                                     Get a Modern Website for Your Business
                                 </h3>
                                 <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up"
                                     data-aos-duration="1900">
                                     We Design, We Develop, We Support and We Promote Websites.
-                                        <br>
-                                    Get an elegant and rewarding website done by experienced developers. We are Laravel, WordPress, WooCommerce, and Magento experts.
+                                    <br>
+                                    Get an elegant and rewarding website done by experienced developers. We are Laravel,
+                                    WordPress, WooCommerce, and Magento experts.
 
                                 </p>
 
@@ -163,7 +164,7 @@
                     <div class="col-lg-1">
 
                     </div>
-                   
+
 
 
                     <div class="col-lg-6 col-md-6 col-sm-8">
@@ -176,8 +177,8 @@
         </section>
         <!-- Product That End -->
 
-          <!-- Product That Start -->
-          <section class="about-product pt-4 mt-6">
+        <!-- Product That Start -->
+        <section class="about-product pt-4 mt-6">
             <div class="container">
                 <div class="row g-xxl-7 g-5">
                     <div class="col-lg-6 col-md-6 col-sm-8">
@@ -191,13 +192,14 @@
                     <div class="col-lg-5">
                         <div class="about-product-content ps-xxl-10">
                             <div class="pricing-title">
-                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up"
-                                    data-aos-duration="1600">
+                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up" data-aos-duration="1600">
                                     Need a mobile app for your business?
                                 </h3>
                                 <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up"
                                     data-aos-duration="1900">
-                                    We are an experienced agency specializing in app creation service. We develop custom mobile apps for Android and iOS platforms for businesses of any size. Tell us your business idea.
+                                    We are an experienced agency specializing in app creation service. We develop custom
+                                    mobile apps for Android and iOS platforms for businesses of any size. Tell us your
+                                    business idea.
                                 </p>
 
                             </div>
@@ -228,7 +230,7 @@
                                         remarkable growth through our comprehensive expertise.
                                     </p>
                                 </div>
-                                <a href="#"  wire:navigate
+                                <a href="#" wire:navigate
                                     class="radius-btn d-inline-flex text-capitalize radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                                     Start a Project
                                 </a>
@@ -271,7 +273,7 @@
                                             As a proficient App Development Company, we are known for providing
                                             high-quality experience with our built apps on different portable devices
                                         </p>
-                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
+                                        <a href="#" wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -301,7 +303,7 @@
                                             Design your first impression exaltedly! What if you get a beautifully
                                             designed website that attracts clients Why go anywhere when CDL is here
                                         </p>
-                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
+                                        <a href="#" wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -332,7 +334,7 @@
                                             development services where our professionals tailor the app as per your
                                             needs
                                         </p>
-                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
+                                        <a href="#" wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -362,7 +364,7 @@
                                             Your products need to be more visible and have a better appearance on
                                             digital platforms We secure your trust with the best e-commerce website
                                         </p>
-                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
+                                        <a href="#" wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -394,7 +396,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/6.webp" alt="img">
-                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
+                                    <a href="#" wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -403,7 +405,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#"  wire:navigate class="cont">
+                                    <a href="#" wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -418,7 +420,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/7.webp" alt="img">
-                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
+                                    <a href="#" wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -427,7 +429,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#"  wire:navigate class="cont">
+                                    <a href="#" wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -442,7 +444,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/1.webp" alt="img">
-                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
+                                    <a href="#" wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -451,7 +453,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#"  wire:navigate class="cont">
+                                    <a href="#" wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -466,7 +468,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/2.webp" alt="img">
-                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
+                                    <a href="#" wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -475,7 +477,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#"  wire:navigate class="cont">
+                                    <a href="#" wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -583,7 +585,7 @@
                                 technologies and expert strategies. Let us be your trusted partner in driving growth and
                                 achieving lasting success.
                             </p>
-                            <a href="#"  wire:navigate class="video-popup step-textcircle">
+                            <a href="#" wire:navigate class="video-popup step-textcircle">
                                 <span class="icon d-center radius100">
                                     <i class="fas fa-play"></i>
                                 </span>
@@ -743,7 +745,7 @@
                             Meet our <span class="fw-400">creative</span> staff
                         </h2>
                     </div>
-                    <a href="#"  wire:navigate
+                    <a href="#" wire:navigate
                         class="radius-btn d-inline-flex text-capitalize radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                         view all teams
                     </a>
@@ -759,7 +761,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -769,7 +771,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -779,7 +781,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -789,7 +791,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -800,7 +802,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                
+
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-lg-18" data-aos="fadein"
@@ -812,7 +814,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -822,7 +824,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -832,7 +834,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -842,7 +844,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -853,7 +855,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                
+
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fadein"
@@ -865,7 +867,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -875,7 +877,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -885,7 +887,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -895,7 +897,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -906,7 +908,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                
+
                             </div>
                         </div>
                         <div class="swiper-slide col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-lg-18" data-aos="fadein"
@@ -918,7 +920,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -928,7 +930,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -938,7 +940,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -948,7 +950,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#"  wire:navigate class="text-center d-center">
+                                            <a href="#" wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -959,7 +961,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
