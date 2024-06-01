@@ -48,3 +48,15 @@ Route::get('/workwithus', function () {
 Route::get('/workwithuss', function () {
     return view('workwithuss');
 });
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/projectdetails', function () {
+    return view('projectdetails');
+});
+
+Route::get('/projects', function () {
+    return view('projects');
+});
