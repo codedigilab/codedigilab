@@ -122,8 +122,7 @@
                                     data-aos-duration="1600">
                                     CODE <span class="fw-400 theme-clr">DIGI LAB</span>
                                 </h2>
-                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up"
-                                    data-aos-duration="1900">
+                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="zoom-in-left" data-aos-duration="1800" >
                                     Code Digi Lab. Is The Leading Custom Web Development Company Offering A
                                     Comprehensive Range Of Website Development Services. Our Expert Developers
                                     Critically Analyze Your Unique Business Challenges To Craft Website Development
@@ -229,7 +228,7 @@
                                         remarkable growth through our comprehensive expertise.
                                     </p>
                                 </div>
-                                <a href="#"
+                                <a href="#"  wire:navigate
                                     class="radius-btn d-inline-flex text-capitalize radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                                     Start a Project
                                 </a>
@@ -272,7 +271,7 @@
                                             As a proficient App Development Company, we are known for providing
                                             high-quality experience with our built apps on different portable devices
                                         </p>
-                                        <a href="#" class="white-clr d-flex gap-4">
+                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -302,7 +301,7 @@
                                             Design your first impression exaltedly! What if you get a beautifully
                                             designed website that attracts clients Why go anywhere when CDL is here
                                         </p>
-                                        <a href="#" class="white-clr d-flex gap-4">
+                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -333,7 +332,7 @@
                                             development services where our professionals tailor the app as per your
                                             needs
                                         </p>
-                                        <a href="#" class="white-clr d-flex gap-4">
+                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -363,7 +362,7 @@
                                             Your products need to be more visible and have a better appearance on
                                             digital platforms We secure your trust with the best e-commerce website
                                         </p>
-                                        <a href="#" class="white-clr d-flex gap-4">
+                                        <a href="#"  wire:navigate class="white-clr d-flex gap-4">
                                             Explore More
                                             <span class="rot60">
                                                 <i class="fas fa-arrow-up white-clr"></i>
@@ -395,7 +394,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/6.webp" alt="img">
-                                    <a href="#" class="mission-v4-btn d-center">
+                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -404,7 +403,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#" class="cont">
+                                    <a href="#"  wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -419,7 +418,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/7.webp" alt="img">
-                                    <a href="#" class="mission-v4-btn d-center">
+                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -428,7 +427,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#" class="cont">
+                                    <a href="#"  wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -443,7 +442,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/1.webp" alt="img">
-                                    <a href="#" class="mission-v4-btn d-center">
+                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -452,7 +451,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#" class="cont">
+                                    <a href="#"  wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -467,7 +466,7 @@
                             <div class="protfolio-solution-item">
                                 <div class="thumb position-relative mb-xxl-7 mb-5">
                                     <img style="border-radius: 18px;" src="assets/img/my/2.webp" alt="img">
-                                    <a href="#" class="mission-v4-btn d-center">
+                                    <a href="#"  wire:navigate class="mission-v4-btn d-center">
                                         <span class="rot60">
                                             <i class="fa-solid fa-arrow-up"></i>
                                         </span>
@@ -476,7 +475,7 @@
                                 <div
                                     class="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                     <img src="assets/img/element/arrow-cmn.png" alt="img">
-                                    <a href="#" class="cont">
+                                    <a href="#"  wire:navigate class="cont">
                                         <h4 class="white-clr">
                                             Amazing Design
                                             <span class="d-block">
@@ -584,7 +583,7 @@
                                 technologies and expert strategies. Let us be your trusted partner in driving growth and
                                 achieving lasting success.
                             </p>
-                            <a href="#" class="video-popup step-textcircle">
+                            <a href="#"  wire:navigate class="video-popup step-textcircle">
                                 <span class="icon d-center radius100">
                                     <i class="fas fa-play"></i>
                                 </span>
@@ -744,7 +743,7 @@
                             Meet our <span class="fw-400">creative</span> staff
                         </h2>
                     </div>
-                    <a href="#"
+                    <a href="#"  wire:navigate
                         class="radius-btn d-inline-flex text-capitalize radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                         view all teams
                     </a>
@@ -760,7 +759,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -770,7 +769,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -780,7 +779,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -790,7 +789,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -806,7 +805,7 @@
                                         Programmer
                                     </span>
                                     <h5 class="white-clr whitehover">
-                                        <a href="#" class="white-clr whitehover">Leslie Alexander</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Leslie Alexander</a>
                                     </h5>
 
                                 </div>
@@ -821,7 +820,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -831,7 +830,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -841,7 +840,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -851,7 +850,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -867,7 +866,7 @@
                                         UI/UX designer
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Darlene Robertson</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Darlene Robertson</a>
                                     </h5>
 
                                 </div>
@@ -882,7 +881,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -892,7 +891,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -902,7 +901,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -912,7 +911,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -928,7 +927,7 @@
                                         Web developer
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Marvin McKinney</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Marvin McKinney</a>
                                     </h5>
 
                                 </div>
@@ -943,7 +942,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -953,7 +952,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -963,7 +962,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -973,7 +972,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -989,7 +988,7 @@
                                         CEO
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Esther Howard</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Esther Howard</a>
                                     </h5>
 
                                 </div>

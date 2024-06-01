@@ -24,7 +24,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="/" class="text-uppercase htheme">
+                                    <a href="/" wire:navigate class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -64,8 +64,7 @@
         <section class="Faqs-section pt-space pb-space">
             <div class="container">
                 <div class="faqs-title text-center mb-xxl-15 mb-xl-12 mb-lg-10 mb-md-9 mb-sm-8 mb-7">
-                    <a href="#"
-                        class="radius-btn cmn-border d-inline-flex radius100 py-xxl-2 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
+                    <a href="#" wire:navigate class="radius-btn cmn-border d-inline-flex radius100 py-xxl-2 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
                         FAQ’S
                         <span class="rot60 d-inline-block">
                             <i class="fas fa-arrow-up theme-clr"></i>

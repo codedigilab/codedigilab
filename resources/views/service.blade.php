@@ -24,7 +24,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="/" class="text-uppercase htheme">
+                                    <a href="/" wire:navigate class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -66,13 +66,9 @@
                     <div class="pricing-title">
                         <div
                             class="radius-btn text-uppercase cmn-border d-inline-flex radius100 py-xxl-3 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3">
-                            WHAT WE OFFER</div>
-                        <h2 class="stitle mt-xxl-8 mt-xl-6 mt-5">What <span class="fw-400">We Can Do for</span><span
-                                class="d-block fw-bold">Our Clients</span></h2>
-                    </div><a
-                        class="radius-btn d-inline-flex text-capitalize radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5 style-2"
-                        href="/service">view all service<span class="rot60 d-inline-block"><i
-                                class="fas fa-arrow-up theme-clr"></i></span></a>
+                            OUR EXPERTISE</div>
+                        <h2 class="stitle mt-xxl-8 mt-xl-6 mt-5">Get One For Your Business </h2>
+                    </div>
                 </div>
                 <div class="row g-xxl-7 g-xl-6 g-4">
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
@@ -83,10 +79,9 @@
                                 <h5 class="seri white-clr d-flex align-items-end">01</h5>
                             </div>
                             <div class="content">
-                                <h5 class="white-clr mb-xxl-6 mb-xl-5 mb-4">product Design</h5>
-                                <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Domination. At the end of the day, going
-                                    forward, a new normal that has evolved from generation on the runway</p><a
-                                    class="white-clr d-flex gap-4" href="/contact">Explore More<span class="rot60"><i
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Custom App</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Turn your ideas into reality. Share your requirements with us and we will do an app customized to your business</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
                                             class="fas fa-arrow-up white-clr"></i></span></a>
                             </div>
                         </div>
@@ -99,10 +94,9 @@
                                 <h5 class="seri white-clr d-flex align-items-end">02</h5>
                             </div>
                             <div class="content">
-                                <h5 class="white-clr mb-xxl-6 mb-xl-5 mb-4">UI/UX design</h5>
-                                <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Domination. At the end of the day, going
-                                    forward, a new normal that has evolved from generation on the runway</p><a
-                                    class="white-clr d-flex gap-4" href="/contact">Explore More<span class="rot60"><i
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Food Delivery</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">We hold extensive experience in IT solutions for the hospitality domain. Seek our tech expertise to get one for yourself</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
                                             class="fas fa-arrow-up white-clr"></i></span></a>
                             </div>
                         </div>
@@ -115,232 +109,202 @@
                                 <h5 class="seri white-clr d-flex align-items-end">03</h5>
                             </div>
                             <div class="content">
-                                <h5 class="white-clr mb-xxl-6 mb-xl-5 mb-4">Branding Design</h5>
-                                <p class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Domination. At the end of the day, going
-                                    forward, a new normal that has evolved from generation on the runway</p><a
-                                    class="white-clr d-flex gap-4" href="/contact">Explore More<span class="rot60"><i
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">eCommerce</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Magento, WooCommerce, Mobile Apps, we do it all. Let us take your business online with the best of our consultancy</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
                                             class="fas fa-arrow-up white-clr"></i></span></a>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-        <!-- Service m Tabs Start -->
-        <section class="service-section pt-space pb-space">
-            <div class="container">
-                <div
-                    class="d-flex align-items-center justify-content-between flex-wrap gap-5 mb-xxl-17 mb-xl-12 mb-lg-10 mb-md-10 mb-sm-10 mb-9">
-                    <div class="pricing-title">
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="500">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">04</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Dating</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Build an app for your startup with us. Start it with a prototype similar to Tinder or Bumble App. You are just a click away.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="700">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">05</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">BFSI</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Build with us a team of efficient software developers having experience in the BFSI domain to construct your platform faster .</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="900">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">06</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Enterprise Apps</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">ERPs, CRMs, AI-enabled tech, or any other large enterprise-level application requires a loyal, focused, and visionary team.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="500">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">07</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">SaaS</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Building a SaaS application is considerably different from a traditional web platform. Hire experienced SaaS engineers who understand the logic better.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="700">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">08</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">MetaVerse</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">One Life is not enough to do all that one wants to do. Metaverse is trending and is the future of the human lifestyle. Hire like-minded engineers with us</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="900">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">09</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Real Estate</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Fuel your business with a scalable and elegant website responsive design or a mobile application for your real estate business.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="500">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">10</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Pets</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Let us start with a free consultancy around digitising Pet's business. Get a feature-rich eShop launched quickly.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="700">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">11</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Education</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Online Learning through videos or live classes. Let us help you offer it to your audiences on the web and mobile app</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="900">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">12</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Healthcare</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">The world is seeing a high rise in digitization in health tech. Millions of people need an efficient Telemedicine platform</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="500">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">13</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Travel</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Spend on technology to handle the upcoming demand in the travel domain as soon as the world opens up again.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="700">
+                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">14</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Sports</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Websites for Soccer Clubs, Apps for Stadiums, IT solutions for sports coaching. We do it all. Start with contacting us.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-delay="900">
                         <div
-                            class="radius-btn text-uppercase cmn-border d-inline-flex radius100 py-xxl-2 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
-                            WHAT WE OFFER
-                            <span class="rot60 d-inline-block">
-                                <i class="fas fa-arrow-up theme-clr"></i>
-                            </span>
+                            class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
+                                <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
+                                <h5 class="seri white-clr d-flex align-items-end">15</h5>
+                            </div>
+                            <div class="content">
+                                <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">Taxi Booking</h5>
+                                <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Get a prototype for launching a new app like Uber Taxi Service. We are just a click away to get one done for you.</p><a
+                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                            class="fas fa-arrow-up white-clr"></i></span></a>
+                            </div>
                         </div>
-                        <h2 class="stitle">
-                            Most <span class="fw-400">experienced</span> services
-                        </h2>
                     </div>
-                    <a href="service"
-                        class="radius-btn d-inline-flex radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
-                        View All Service
-                    </a>
-                </div>
 
-                <!--Service Tabing section-->
-                <div class="row g-xxl-6 g-4">
-                    <div class="service-tabing-wrap Faqs-section position-relative">
-                        <div class="accordion-single active py-xxl-9 py-xl-7 py-lg-6 py-5 bt-border">
-                            <div class="header-area">
-                                <div
-                                    class="accordion-btn justify-content-between d-flex align-items-center text-start d-flex position-relative w-100">
-                                    <div class="mtitle-ara">
-                                        <span
-                                            class="d-inine-flex serial-badge align-items-center gap-4 cmn-border radius100 white-clr">
-                                            01
-                                            <span class="rot60 d-inline-block theme-clr">
-                                                <i class="fa-solid fa-arrow-right"></i>
-                                            </span>
-                                        </span>
-                                        <span class="mtitle d-block mt-6">
-                                            <a href="#" class="white-clr whitehover">
-                                                Digitalization
-                                            </a>
-                                        </span>
-                                        <span class="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                            We build intelligent next-generation solutions at the intersection of new
-                                            business opportunities and technological
-                                            innovations.
-                                        </span>
-                                    </div>
-                                    <div class="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
-                                        <ul class="modern-list d-grid gap-2">
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Legacy Modernization
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Solution Design
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Technology Enabling
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Mobile-First Systems
-                                            </li>
-                                        </ul>
-                                        <div class="tab-remove-thumb">
-                                            <img src="assets/img/service/tab1.png" alt="img">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single py-xxl-9 py-xl-7 py-lg-6 py-5 bt-border">
-                            <div class="header-area">
-                                <div
-                                    class="accordion-btn justify-content-between d-flex align-items-center text-start d-flex position-relative w-100">
-                                    <div class="mtitle-ara">
-                                        <span
-                                            class="d-inine-flex serial-badge align-items-center gap-4 cmn-border radius100 white-clr">
-                                            02
-                                            <span class="rot60 d-inline-block theme-clr">
-                                                <i class="fa-solid fa-arrow-right"></i>
-                                            </span>
-                                        </span>
-                                        <span class="mtitle d-block mt-6">
-                                            <a href="#" class="white-clr whitehover">
-                                                Modernization
-                                            </a>
-                                        </span>
-                                        <span class="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                            We build intelligent next-generation solutions at the intersection of new
-                                            business opportunities and technological
-                                            innovations.
-                                        </span>
-                                    </div>
-                                    <div class="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
-                                        <ul class="modern-list d-grid gap-2">
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Legacy Modernization
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Solution Design
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Technology Enabling
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Mobile-First Systems
-                                            </li>
-                                        </ul>
-                                        <div class="tab-remove-thumb">
-                                            <img src="assets/img/service/tab2.png" alt="img">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single py-xxl-9 py-xl-7 py-lg-6 py-5 bt-border">
-                            <div class="header-area">
-                                <div
-                                    class="accordion-btn justify-content-between d-flex align-items-center text-start d-flex position-relative w-100">
-                                    <div class="mtitle-ara">
-                                        <span
-                                            class="d-inine-flex serial-badge align-items-center gap-4 cmn-border radius100 white-clr">
-                                            03
-                                            <span class="rot60 d-inline-block theme-clr">
-                                                <i class="fa-solid fa-arrow-right"></i>
-                                            </span>
-                                        </span>
-                                        <span class="mtitle d-block mt-6">
-                                            <a href="#" class="white-clr whitehover">
-                                                Accelerating Innovation
-                                            </a>
-                                        </span>
-                                        <span class="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                            We build intelligent next-generation solutions at the intersection of new
-                                            business opportunities and technological
-                                            innovations.
-                                        </span>
-                                    </div>
-                                    <div class="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
-                                        <ul class="modern-list d-grid gap-2">
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Legacy Modernization
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Solution Design
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Technology Enabling
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Mobile-First Systems
-                                            </li>
-                                        </ul>
-                                        <div class="tab-remove-thumb">
-                                            <img src="assets/img/service/tab3.png" alt="img">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single py-xxl-9 py-xl-7 py-lg-6 py-5 bb-border bt-border">
-                            <div class="header-area">
-                                <div
-                                    class="accordion-btn justify-content-between d-flex align-items-center text-start d-flex position-relative w-100">
-                                    <div class="mtitle-ara">
-                                        <span
-                                            class="d-inine-flex serial-badge align-items-center gap-4 cmn-border radius100 white-clr">
-                                            04
-                                            <span class="rot60 d-inline-block theme-clr">
-                                                <i class="fa-solid fa-arrow-right"></i>
-                                            </span>
-                                        </span>
-                                        <span class="mtitle d-block mt-6">
-                                            <a href="#" class="white-clr whitehover">
-                                                Business consulting
-                                            </a>
-                                        </span>
-                                        <span class="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                            We build intelligent next-generation solutions at the intersection of new
-                                            business opportunities and technological
-                                            innovations.
-                                        </span>
-                                    </div>
-                                    <div class="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
-                                        <ul class="modern-list d-grid gap-2">
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Legacy Modernization
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Solution Design
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Technology Enabling
-                                            </li>
-                                            <li class="d-flex align-items-center gap-2">
-                                                <i class="fas fa-chevron-right"></i> Mobile-First Systems
-                                            </li>
-                                        </ul>
-                                        <div class="tab-remove-thumb">
-                                            <img src="assets/img/service/tab4.png" alt="img">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-                <!--Service Tabing section-->
             </div>
         </section>
-        <!-- Service m Tabs End -->
+
 
         <!-- Text SLider Start -->
-        <div class="digital-solution mb-xxl-4 pb-lg-0 pb-15">
+        <div class="digital-solution mb-xxl-4 pb-lg-0 pb-15 mb-6">
             <div class="mycustom-marque">
                 <div class="scrolling-wrap">
                     <div class="comm">

@@ -23,7 +23,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="/" class="text-uppercase htheme">
+                                    <a href="/" wire:navigate class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -75,7 +75,7 @@
                             <p class="white-clr mb-xxl-12 mb-xl-9 mb-lg-8 mb-5">
                                 The page you are looking for does not exist
                             </p>
-                            <a href="/" class="cmn-btn themebg py-xxl-4 py-3 px-xxl-6 px-5 text-whitess">
+                            <a href="/" wire:navigate class="cmn-btn themebg py-xxl-4 py-3 px-xxl-6 px-5 text-whitess">
                                 Back To Home Page
                             </a>
                         </div>

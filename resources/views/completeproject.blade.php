@@ -24,7 +24,7 @@
                             <ul class="breadcrumnd d-inline-flex align-items-center gap-2 pra-border radius100 py-xxl-3 py-2 px-xxl-4 px-4"
                                 data-aos="zoom-in-right" data-aos-duration="2000">
                                 <li>
-                                    <a href="/" class="text-uppercase htheme">
+                                    <a href="/" wire:navigate class="text-uppercase htheme">
                                         Home
                                     </a>
                                 </li>
@@ -322,7 +322,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -332,7 +332,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -342,7 +342,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -352,7 +352,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -368,7 +368,7 @@
                                         Programmer
                                     </span>
                                     <h5 class="white-clr whitehover">
-                                        <a href="#" class="white-clr whitehover">Leslie Alexander</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Leslie Alexander</a>
                                     </h5>
 
                                 </div>
@@ -383,7 +383,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -393,7 +393,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -403,7 +403,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -413,7 +413,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -429,7 +429,7 @@
                                         UI/UX designer
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Darlene Robertson</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Darlene Robertson</a>
                                     </h5>
 
                                 </div>
@@ -444,7 +444,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -454,7 +454,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -464,7 +464,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -474,7 +474,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -490,7 +490,7 @@
                                         Web developer
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Marvin McKinney</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Marvin McKinney</a>
                                     </h5>
 
                                 </div>
@@ -505,7 +505,7 @@
                                     <ul
                                         class="common-social d-flex align-items-center justify-content-center gap-xxl-3 gap-xl-2 gap-1">
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="11" height="20" viewBox="0 0 11 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -515,7 +515,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -525,7 +525,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="26" height="20" viewBox="0 0 26 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -535,7 +535,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" class="text-center d-center">
+                                            <a href="#"  wire:navigate class="text-center d-center">
                                                 <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -551,7 +551,7 @@
                                         CEO
                                     </span>
                                     <h5 class="white-clr">
-                                        <a href="#" class="white-clr whitehover">Esther Howard</a>
+                                        <a href="#"  wire:navigate class="white-clr whitehover">Esther Howard</a>
                                     </h5>
 
                                 </div>
