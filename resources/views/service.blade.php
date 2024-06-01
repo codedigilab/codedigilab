@@ -111,7 +111,7 @@
                             <div class="content">
                                 <h5 data-aos="zoom-in-left" data-aos-duration="1800"  class="white-clr mb-xxl-6 mb-xl-5 mb-4">eCommerce</h5>
                                 <p data-aos="zoom-in-left" data-aos-duration="1800"  class="pra-clr mb-xxl-6 mb-xl-5 mb-4">Magento, WooCommerce, Mobile Apps, we do it all. Let us take your business online with the best of our consultancy</p><a
-                                    class="white-clr d-flex gap-4" href="contact" wire:navigate>Explore More<span class="rot60"><i
+                                    class="white-clr d-flex gap-4" href="ecommerce" wire:navigate>Explore More<span class="rot60"><i
                                             class="fas fa-arrow-up white-clr"></i></span></a>
                             </div>
                         </div>
