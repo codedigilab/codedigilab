@@ -122,7 +122,7 @@
                                     </svg>
                                 </h5>
                                 <p class="pra-clr mb-xxl-7 mb-xl-6 mb-6" data-aos="zoom-in" data-aos-duration="1400">
-                                    Darbhanga Bihar 846009 <br> India
+                                Bihar   Darbhanga  846009 <br> India
                                 </p>
                                 <span class="d-block" data-aos="zoom-in" data-aos-duration="1600">
                                     <span class="fw-bold white-clr mb-xxl-3 mb-2 d-block">
