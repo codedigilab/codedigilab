@@ -327,3 +327,4 @@
 <script src="assets/js/vanilla-tilt.min.js"></script>
 <!-- js Mian start -->
 <script src="assets/js/main.js"></script>
+<script src="http://localhost/php/admin/ProjectName/livewire/livewire.js"></script>
