@@ -10,7 +10,7 @@
     @include('include/header')
 
 
-
+    <!-- https://xstarnextjs.vercel.app/index2 -->
     @include('include/footer')
     @livewireScripts
 </body>
