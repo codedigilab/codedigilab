@@ -138,6 +138,76 @@
             </div>
         </section>
         <!-- Product That End -->
+
+        <!-- Product That Start -->
+        <section class="about-product pt-4 mt-6">
+            <div class="container">
+                <div class="row g-xxl-7 g-5">
+                <div class="col-lg-5">
+                        <div class="about-product-content ps-xxl-10">
+                            <div class="pricing-title">
+                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up"
+                                    data-aos-duration="1600">
+                                    Get a Modern Website for Your Business
+                                </h3>
+                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up"
+                                    data-aos-duration="1900">
+                                    We Design, We Develop, We Support and We Promote Websites.
+                                        <br>
+                                    Get an elegant and rewarding website done by experienced developers. We are Laravel, WordPress, WooCommerce, and Magento experts.
+
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1">
+
+                    </div>
+                   
+
+
+                    <div class="col-lg-6 col-md-6 col-sm-8">
+                        <div class="about-product-thumb w-100" data-aos="zoom-in" data-aos-duration="2000">
+                            <img src="assets/img/my/laptop-design1.webp" alt="img" class="w-100">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Product That End -->
+
+          <!-- Product That Start -->
+          <section class="about-product pt-4 mt-6">
+            <div class="container">
+                <div class="row g-xxl-7 g-5">
+                    <div class="col-lg-6 col-md-6 col-sm-8">
+                        <div class="about-product-thumb w-100" data-aos="zoom-in" data-aos-duration="2000">
+                            <img src="assets/img/my/device.webp" alt="img" class="w-100">
+                        </div>
+                    </div>
+                    <div class="col-lg-1">
+
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="about-product-content ps-xxl-10">
+                            <div class="pricing-title">
+                                <h3 class="mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up"
+                                    data-aos-duration="1600">
+                                    Need a mobile app for your business?
+                                </h3>
+                                <p class="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up"
+                                    data-aos-duration="1900">
+                                    We are an experienced agency specializing in app creation service. We develop custom mobile apps for Android and iOS platforms for businesses of any size. Tell us your business idea.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Product That End -->
         <!-- About v02 Start -->
         <section class="about-product mt-6">
             <div class="container">
