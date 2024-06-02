@@ -13,7 +13,7 @@ Route::group([
 
     $router->get('/', 'HomeController@index')->name('home');
     $router->resource('blogs', BlogController::class);
-
+    $router->resource('contacts', ContactController::class);
 
 
 });
