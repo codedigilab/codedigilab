@@ -66,7 +66,7 @@
             <div class="container">
                 <div class="row g-xl-7 g-4 mb-xxl-7 mb-6 justify-content-center">
                     <div class="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration="1400">
-                        <div class="contact-sub-info bg1-clr text-center">
+                        <div class="contact-sub-info rediouskhalid  bg1-clr text-center">
                             <svg width="54" height="54" viewBox="0 0 54 54" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration="1600">
-                        <div class="contact-sub-info bg1-clr text-center">
+                        <div class="contact-sub-info rediouskhalid  bg1-clr text-center">
                             <svg width="69" height="54" viewBox="0 0 69 54" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -104,7 +104,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration="1800">
-                        <div class="contact-sub-info bg1-clr text-center">
+                        <div class="contact-sub-info rediouskhalid  bg1-clr text-center">
                             <svg width="38" height="50" viewBox="0 0 38 50" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -121,7 +121,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration="2000">
-                        <div class="contact-sub-info bg1-clr text-center">
+                        <div class="contact-sub-info rediouskhalid  bg1-clr text-center">
                             <svg width="54" height="54" viewBox="0 0 54 54" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path

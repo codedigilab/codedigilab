@@ -73,7 +73,7 @@
                 <div class="row g-xxl-7 g-xl-6 g-4">
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="500">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">01</h5>
@@ -88,7 +88,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="700">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">02</h5>
@@ -103,7 +103,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="900">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">03</h5>
@@ -118,7 +118,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="500">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">04</h5>
@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="700">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">05</h5>
@@ -148,7 +148,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="900">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">06</h5>
@@ -163,7 +163,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="500">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">07</h5>
@@ -178,7 +178,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="700">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">08</h5>
@@ -193,7 +193,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="900">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">09</h5>
@@ -208,7 +208,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="500">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">10</h5>
@@ -223,7 +223,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="700">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">11</h5>
@@ -238,7 +238,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="900">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">12</h5>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="500">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer1.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">13</h5>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="700">
-                        <div class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                        <div class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer2.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">14</h5>
@@ -284,7 +284,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 aos-init aos-animate" data-aos="fade-up"
                         data-aos-duration="1000" data-aos-delay="900">
                         <div
-                            class="offer-item d-md-flex d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
+                            class="offer-item d-md-flex rediouskhalid  d-grid gap-xxl-6 gap-xl-5 gap-lg-4 gap-3 p-xxl-6 p-xl-5 p-4">
                             <div class="icon-area d-md-grid d-flex justify-content-between mb-md-0 mb-4">
                                 <div class="icon"><img src="assets/img/element/offer3.png" alt="img"></div>
                                 <h5 class="seri white-clr d-flex align-items-end">15</h5>
