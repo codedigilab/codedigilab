@@ -24,7 +24,7 @@ class ContactController extends AdminController
 
         $data->save();
 
-        Alert::success('Congrats', 'You Have Added Success');
+        Alert::success('Congrats', 'Our Team Will Contact You Shortly');
 
         return redirect()->back();
 
