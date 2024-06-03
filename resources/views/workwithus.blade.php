@@ -8,6 +8,7 @@
 
 <body>
     @include('include/header')
+    @include('sweetalert::alert')
 
     <!-- Main start -->
     <main class="main">
@@ -66,16 +67,19 @@
                                 <div class="result-progress-wrap" data-aos="zoom-in-up" data-aos-duration="1800">
 
                                     <div class="progres-item">
-                                        <form>
+                                    <form action="contact" method="post" enctype="">
+                                    @csrf
                                             <div class="row">
                                                 <div class="col-6">
-                                                    <input type="text" class="form-control" placeholder="Your name">
+                                                    <input type="text" name="name" class="form-control" placeholder="Your name" required>
                                                 </div>
                                                 <div class="col-6">
-                                                    <input type="text" class="form-control" placeholder="Phone No">
+                                                    <input type="number" name="number" class="form-control" placeholder="Phone No" required>
                                                 </div>
                                                 <div class="col-12 mt-3">
-                                                    <input type="text" class="form-control" placeholder="Email ID">
+                                                    <input type="email" name="email" class="form-control" placeholder="Email ID" required>
+                                                    <input type="hidden" value="workwithus" name="message" class="form-control" placeholder="Email ID" required>
+                                                
                                                 </div>
 
                                             </div>

@@ -1,7 +1,8 @@
 <?php
 
 namespace App\Admin\Controllers;
-
+use Illuminate\Http\Request;
+use Alert;
 use OpenAdmin\Admin\Controllers\AdminController;
 use OpenAdmin\Admin\Form;
 use OpenAdmin\Admin\Grid;
@@ -10,6 +11,27 @@ use \App\Models\Contact;
 
 class ContactController extends AdminController
 {
+
+
+    function contact(Request $request){
+
+        $data= new Contact;
+
+        $data->name = $request->input('name');
+        $data->email = $request->input('email');
+        $data->number = $request->input('number');
+        $data->message = $request->input('message');
+
+        $data->save();
+
+        Alert::success('Congrats', 'You Have Added Success');
+
+        return redirect()->back();
+
+    }
+
+
+
     /**
      * Title for current resource.
      *

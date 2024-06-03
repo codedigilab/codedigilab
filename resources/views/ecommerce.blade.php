@@ -8,7 +8,7 @@
 
 <body>
     @include('include/header')
-
+    @include('sweetalert::alert')
     <!-- Main start -->
     <main class="main">
 
@@ -84,7 +84,8 @@
                     <div class="col-lg-4" data-aos="zoom-in-left" data-aos-duration="1600">
                         <div class="case-content-box bg1-clr">
                             <div class="contact-content bg1-clr">
-                                <form action="https://formspree.io/f/mkndeeyp" method="post">
+                                <form action="contact" method="post" enctype="">
+                                    @csrf
                                     <div class="col-lg-12">
                                         <input type="text" name="name" placeholder="Name" required>
                                     </div>
@@ -96,7 +97,7 @@
                                     </div>
 
                                     <div class="col-lg-12">
-                                        <textarea name="messages" rows="4" placeholder="Message" required></textarea>
+                                        <textarea name="message" rows="4" placeholder="Message" required></textarea>
                                     </div>
                                     <div class="col-lg-12">
                                         <button type="submit" class="submit-btn">

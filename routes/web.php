@@ -60,3 +60,7 @@ Route::get('/projectdetails', function () {
 Route::get('/projects', function () {
     return view('projects');
 });
+
+Route::post('contact',[App\Admin\Controllers\ContactController::class,'contact']);
+Route::post('ecommerce',[App\Admin\Controllers\ContactController::class,'contact']);
+Route::post('workwithus',[App\Admin\Controllers\ContactController::class,'contact']);
