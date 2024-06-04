@@ -4,6 +4,9 @@
 <head>
     @include('include/head')
     @livewireStyles
+    <script>
+       window.location.replace("/");
+    </script>
 </head>
 
 <body>
